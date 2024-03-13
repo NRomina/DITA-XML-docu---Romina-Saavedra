@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_listen_to_music">
+    <title>How to Listen to Music</title>
+    <shortdesc>Here you will learn how to listen to music using the Spotify app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_kgz_n3v_s1c">To listen to music with Spotify and access the best
+            functionalities of the app, you must download it in your phone, create an account and
+            pay for the premium version.</prereq>
+        <steps>
+            <step>
+                <cmd>Tap on the Spotify icon on your phone menu.</cmd>
+            </step>
+            <step>
+                <cmd>Hit the Search icon at the bottom of the screen.</cmd>
+            </step>
+            <step>
+                <cmd>On the search bar, type the name of the song, album or artist/band you want to
+                    listen to and hit Search.</cmd>
+            </step>
+            <step>
+                <cmd>A list will appear on the screen for you to choose from playlists, albums or
+                    radio stations. Tap the one you wish to listen to.</cmd>
+            </step>
+            <step>
+                <cmd>Hit the Play icon on the chosen playlist, album or radio station.</cmd>
+            </step>
+        </steps>
+        <result id="result_g1c_wjv_s1c">The playlist starts to run.</result>
+    </taskbody>
+</task>

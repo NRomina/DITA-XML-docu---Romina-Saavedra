@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_create_a_playlist">
+    <title>How to Create a Playlist</title>
+    <shortdesc>Here you will learn how to create a playlist on Spotify.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Tap Your Library at the bottom-left corner of the main screen.</cmd>
+            </step>
+            <step>
+                <cmd>Hit the plus (+) sign at the top-right corner of Your Library and choose
+                    playlist.</cmd>
+            </step>
+            <step>
+                <cmd>Give you playlist a name and hit Create.</cmd>
+            </step>
+            <step>
+                <cmd>To add songs to your playlist, use the search bar to look for the songs you
+                    like.</cmd>
+            </step>
+            <step>
+                <cmd>Hit the three dots next to the song and tap Add to playlist in the menu that
+                    appears.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the name of the playlist you just created and tap Create.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 4, 5 and 6 for as many songs you wish to add to your
+                    playlist.</cmd>
+            </step>
+        </steps>
+        <result id="result_vjl_qlv_s1c">The playlist is ready to run in Your Library.</result>
+    </taskbody>
+</task>

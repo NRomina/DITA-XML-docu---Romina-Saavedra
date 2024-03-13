@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_spotify_connect">
+    <title>What is Spotify Connect?</title>
+    <shortdesc>Here you will find an explanation of the Spotify Connect feature.</shortdesc>
+    <conbody>
+        <p>The Spotify Connect feature allows your speaker or music system to stream music from
+            Spotify directly from the cloud, rather than via your phone. In other words, you don't
+            need to run your phone down with Bluetooth. Your mobile device simply acts as a remote
+            control. </p>
+    </conbody>
+</concept>

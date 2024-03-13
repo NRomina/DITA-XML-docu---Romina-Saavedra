@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_start_a_spotify_jam">
+    <title>How to Start a Spotify Jam</title>
+    <shortdesc>Here you will find instructions about starting a Spotify Jam.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Begin playing a song on your Spotify mobile app.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the Connect to a Device icon.</cmd>
+            </step>
+            <step>
+                <cmd>Hit Start a Jam and then Share link to invite your friends to a Spotify
+                    listening party.</cmd>
+            </step>
+            <step>
+                <cmd>Share the link via WhatsApp, Instragram, Chrome, etc.</cmd>
+            </step>
+        </steps>
+        <result id="result_ryq_nnv_s1c">Your friends can join your jam and start adding songs to the
+            playlist for a group listening session.</result>
+    </taskbody>
+</task>

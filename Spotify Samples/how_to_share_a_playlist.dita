@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_share_a_playlist">
+    <title>How to Share a Playlist</title>
+    <shortdesc>In this section, you will learn how to share a playlist with your
+        friends.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Tap Your Library on the main screen.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the playlist you want to share.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the Share icon and then Copy link.</cmd>
+            </step>
+            <step>
+                <cmd>Hit the Share icon and paste the link via WhatsApp, Instagram, Chrome,
+                    etc.</cmd>
+            </step>
+        </steps>
+        <result id="result_fzs_34v_s1c">Your friend(s) can open the playlist on their phones, follow
+            it and listen to it.</result>
+    </taskbody>
+</task>

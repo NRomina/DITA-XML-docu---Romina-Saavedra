@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_synchronize_with_other_devices">
+    <title>How to Synchronize with Other Devices</title>
+    <shortdesc>Here you will learn to use one device to remotely control listening on
+        another.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zzz_3qv_s1c">When connecting to a speaker for the first time, all devices
+            need to be on the same WiFi.</prereq>
+        <steps>
+            <step>
+                <cmd>Open Spotify and play something.</cmd>
+            </step>
+            <step>
+                <cmd>Tap the monitor and speaker icon at the bottom-left corner.</cmd>
+            </step>
+            <step>
+                <cmd>Pick the device you want to play on.</cmd>
+            </step>
+        </steps>
+        <result id="result_jps_wqv_s1c">You can use your phone to control Spotify on the other
+            device</result>
+    </taskbody>
+</task>

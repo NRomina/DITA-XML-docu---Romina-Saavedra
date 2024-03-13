@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End User Guide for Spotify</title>
+    <topichead navtitle="Listen to Music">
+        <topicref href="what_is_spotify.dita"/>
+        <topicref href="how_to_listen_to_music.dita"/>
+    </topichead>
+    <topichead navtitle="Create a Playlist">
+        <topicref href="how_to_create_a_playlist.dita"/>
+    </topichead>
+    <topichead navtitle="Start a Jam">
+        <topicref href="what_is_a_spotify_jam.dita"/>
+        <topicref href="how_to_start_a_spotify_jam.dita"/>
+    </topichead>
+    <topichead navtitle="Share a Playlist">
+        <topicref href="how_to_share_a_playlist.dita"/>
+    </topichead>
+    <topichead navtitle="Synchronize with Other Devices">
+        <topicref href="what_is_spotify_connect.dita"/>
+        <topicref href="how_to_synchronize_with_other_devices.dita"/>
+    </topichead>
+</map>

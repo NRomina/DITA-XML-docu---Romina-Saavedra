@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_spotify">
+    <title>What is Spotify?</title>
+    <shortdesc>Here you will learn what Spotify is.</shortdesc>
+    <conbody>
+        <p>Spotify is a digital music streaming service. It gives you instant access to its vast
+            online library of music and podcasts, allowing you to listen to any content of your
+            choice at any time. It is both legal and easy to use.</p>
+        <p>You will find millions of songs from a variety of genres and artists, from obscure indie
+            rock and top 40 pop to movie soundtracks and classical music. It also has a complex
+            algorithm to recommend music based on your listening history, as well as curated
+            playlists and internet radio stations.</p>
+    </conbody>
+</concept>
